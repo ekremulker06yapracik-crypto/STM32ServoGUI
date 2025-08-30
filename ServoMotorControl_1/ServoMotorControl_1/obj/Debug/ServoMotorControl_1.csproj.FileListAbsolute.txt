@@ -1,0 +1,10 @@
+C:\Users\EKREM\source\repos\ServoMotorControl_1\ServoMotorControl_1\bin\Debug\ServoMotorControl_1.exe.config
+C:\Users\EKREM\source\repos\ServoMotorControl_1\ServoMotorControl_1\bin\Debug\ServoMotorControl_1.exe
+C:\Users\EKREM\source\repos\ServoMotorControl_1\ServoMotorControl_1\bin\Debug\ServoMotorControl_1.pdb
+C:\Users\EKREM\source\repos\ServoMotorControl_1\ServoMotorControl_1\obj\Debug\ServoMotorControl_1.csproj.AssemblyReference.cache
+C:\Users\EKREM\source\repos\ServoMotorControl_1\ServoMotorControl_1\obj\Debug\ServoMotorControl_1.Form1.resources
+C:\Users\EKREM\source\repos\ServoMotorControl_1\ServoMotorControl_1\obj\Debug\ServoMotorControl_1.Properties.Resources.resources
+C:\Users\EKREM\source\repos\ServoMotorControl_1\ServoMotorControl_1\obj\Debug\ServoMotorControl_1.csproj.GenerateResource.cache
+C:\Users\EKREM\source\repos\ServoMotorControl_1\ServoMotorControl_1\obj\Debug\ServoMotorControl_1.csproj.CoreCompileInputs.cache
+C:\Users\EKREM\source\repos\ServoMotorControl_1\ServoMotorControl_1\obj\Debug\ServoMotorControl_1.exe
+C:\Users\EKREM\source\repos\ServoMotorControl_1\ServoMotorControl_1\obj\Debug\ServoMotorControl_1.pdb
